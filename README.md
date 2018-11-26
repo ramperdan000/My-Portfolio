@@ -10,4 +10,6 @@ Basic Cryptography
 * [Atbash.py](https://raw.githubusercontent.com/ramperdan000/My-Portfolio/master/Atbash.py)
 
 Mini Project (Crowning Achievement Status)
-* 
+* [Monopoly_Manual.py](https://raw.githubusercontent.com/ramperdan000/My-Portfolio/master/Monopoly_Manual.py)
+
+

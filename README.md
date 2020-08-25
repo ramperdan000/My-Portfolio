@@ -9,11 +9,17 @@ Basic Cryptography
 * [Cryptography.py](https://raw.githubusercontent.com/ramperdan000/My-Portfolio/master/Cryptography.py)
 * [Atbash.py](https://raw.githubusercontent.com/ramperdan000/My-Portfolio/master/Atbash.py)
 
-Mini Project (Crowning Achievement Status)
+Mini Project 
 * [Monopoly_Manual.py](https://raw.githubusercontent.com/ramperdan000/My-Portfolio/master/Monopoly_Manual.py)
 
-Ciphers (More Coming Soon)
+Ciphers
 * [Caesar_Cipher.py](https://raw.githubusercontent.com/ramperdan000/My-Portfolio/master/Caesar_Cipher.py)
+
+## DP Computer Science 2020-21
+### Fall Semester
+
+
+### Spring Semester
 
 ## Digital Artworks
 SVG
@@ -39,8 +45,3 @@ D3.js
 * [Colour Scale Graph](https://Colour-Scale--danielrampersau.repl.co)
 
 
-## DP Computer Science 2020-21
-### Fall Semester
-
-
-### Spring Semester

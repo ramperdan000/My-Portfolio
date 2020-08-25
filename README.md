@@ -15,12 +15,15 @@ Mini Project
 Ciphers
 * [Caesar_Cipher.py](https://raw.githubusercontent.com/ramperdan000/My-Portfolio/master/Caesar_Cipher.py)
 
+## -----------------------------------------------------------------------------
 ## DP Computer Science 2020-21
 ### Fall Semester
 
 
 ### Spring Semester
 
+
+## -----------------------------------------------------------------------------
 ## Digital Artworks
 SVG
 * [Pac-Man SVG Art](https://PuckMan--danielrampersau.repl.co)
